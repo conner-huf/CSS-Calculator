@@ -1,5 +1,5 @@
 # CSS-Calculator
-A calculator built using HTML, CSS, and JS
+A calculator built using HTML, CSS, and JS.
 
 ![Custom dimensions 650x800 px (2)](https://github.com/conner-huf/CSS-Calculator/assets/126115012/cc0ed493-2d29-415d-b5f0-28b75b560b6d)
 
